@@ -70,24 +70,40 @@
 // var_dump($strangka);
 
 // operator aritmatika
-$angka_1 = 100;
-$angka_2 = 50;
-print("Angka Pertama : $angka_1 <br>");
-print("Angka Kedua : $angka_2 <br>");
+// $angka_1 = 100;
+// $angka_2 = 50;
+// print("Angka Pertama : $angka_1 <br>");
+// print("Angka Kedua : $angka_2 <br>");
 
-$tambah = $angka_1+$angka_2;
-print("Penambahan : $tambah <br>");
+// $tambah = $angka_1+$angka_2;
+// print("Penambahan : $tambah <br>");
 
-$pengurangan = $angka_1-$angka_2;
-print("Pengurangan : $pengurangan <br>");
+// $pengurangan = $angka_1-$angka_2;
+// print("Pengurangan : $pengurangan <br>");
 
-$perkalian = $angka_1*$angka_2;
-print("Perkalian : $perkalian <br>");
+// $perkalian = $angka_1*$angka_2;
+// print("Perkalian : $perkalian <br>");
 
-$pembagian = $angka_1/$angka_2;
-print("Pembagian : $pembagian <br>");
+// $pembagian = $angka_1/$angka_2;
+// print("Pembagian : $pembagian <br>");
 
-$mod = $angka_1%$angka_2;
-print("Modulus : $mod <br>");
+// $mod = $angka_1%$angka_2;
+// print("Modulus : $mod <br>");
+
+// operator Increment dan Decrement
+// $angka = 10;
+// echo "Sebelum Increment : $angka <br>";
+// increment adalah menambahkan 1 angka
+// $angka++;
+// echo "Setelah Increment : $angka <br>";
+// $angka--;
+// Derement dalah mengurangi satu angka
+// echo "Setelah Dcrement : $angka <br>";
+
+// operator perbandingan
+// var_dump(15<>10);
+// var_dump(15 != 10);
+
+// operator logica
 
 ?>
