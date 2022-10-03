@@ -1,7 +1,4 @@
-<?php
 
-// type
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -105,5 +105,21 @@
 // var_dump(15 != 10);
 
 // operator logica
+// $logika1 = (true and false);
+// var_dump($logika1);
+// echo "<br>";
+// $logika2 = (true or false);
+// var_dump($logika2);
+// echo "<br>";
+// $logika3 = ('Niomic' and true);
+// var_dump($logika3);
 
+// operator string
+// operator untuk menggabungkan dua variable string
+// $nama_depan = "Adi";
+// $nama_belakang = "Kusuma";
+// $gabungan = $nama_depan.$nama_belakang;
+// echo $gabungan;
+// echo "<br>";
+// echo "Adi "."Kusuma";
 ?>
