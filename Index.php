@@ -106,10 +106,10 @@
 
 // operator logica
 // $logika1 = (true and false);
-// var_dump($logika1);
+// printf($logika1);
 // echo "<br>";
 // $logika2 = (true or false);
-// var_dump($logika2);
+// printf($logika2);
 // echo "<br>";
 // $logika3 = ('Niomic' and true);
 // var_dump($logika3);
@@ -122,4 +122,14 @@
 // echo $gabungan;
 // echo "<br>";
 // echo "Adi "."Kusuma";
+
+// Operator Assignment (27)
+// yaitu Assignment di gunakan untuk mengisi nilai variable seperti contoh diatas
+
+// Operator Error Control (28)
+# $hasil = 5/0;
+// echo $hasil;
+// digunakan untuk mengabaikan pesan kesalahan.
+
+
 ?>
